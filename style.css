@@ -7,6 +7,17 @@ body {
     padding: 0;
 }
 
+nav {
+    background-color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #3498db;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 header {
     background-color: #fff;
     color: #3498db;
